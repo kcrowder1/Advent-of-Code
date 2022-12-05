@@ -12,7 +12,7 @@ function createPriority(character) {
 }
 
 fs.readFile(
-  'C:/Users/kccla/Desktop/Advent of Code/adventofcode2022-12-03text.txt',
+  'C:/Users/kccla/Desktop/Advent of Code/day3_rucksack_reorganization_text.txt',
   'utf-8',
   (err, data) => {
     const arr = data.split(/\r?\n/);

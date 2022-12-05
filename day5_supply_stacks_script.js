@@ -16,7 +16,7 @@ const startingStack = [
 // [['Z', 'N'], ['M', 'C', 'D'], ['P']];
 
 fs.readFile(
-  'C:/Users/kccla/Documents/GitHub/Advent of Code/adventofcode2022-12-05text.txt',
+  'C:/Users/kccla/Documents/GitHub/Advent of Code/day5_supply_stacks_text.txt',
   'utf-8',
   (err, data) => {
     const arr = data.split(/\r?\n/);

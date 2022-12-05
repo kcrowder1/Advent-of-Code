@@ -1,7 +1,7 @@
 const fs = require('fs');
 
 fs.readFile(
-  'C:/Users/kccla/Desktop/Advent of Code/adventofcode2022-12-04text.txt',
+  'C:/Users/kccla/Desktop/Advent of Code/day4_camp_cleanup_text.txt',
   'utf-8',
   (err, data) => {
     const arr = data.split(/\r?\n/);
